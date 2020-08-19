@@ -41,7 +41,7 @@ This entire project is done on Amazon sagemaker and uses some heavy GPU instance
 The list below represents main libraries and its objects
 for the project.
 - [Amazon SageMaker](https://ap-northeast-2.console.aws.amazon.com/sagemaker/home?region=ap-northeast-2#/landing) (Build, train, and deploy a model)
-- [tensorflow](https://www.tensorflow.org/) (LSTM classifier)
+- [Tensorflow](https://www.tensorflow.org/) (LSTM classifier)
 
 
 ## Web app final result
