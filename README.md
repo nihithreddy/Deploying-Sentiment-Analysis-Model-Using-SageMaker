@@ -19,7 +19,7 @@ This entire project is done on Amazon sagemaker and uses some heavy GPU instance
 	```
 2. Open the `SageMaker Project.ipynb` file.
 	```
-		jupyter notebook SageMaker Proejct.ipynb
+		jupyter notebook SageMaker Project.ipynb
 	```
 3. Read and follow the instructions! You can find and download the dataset for this project in the notebook.
 
