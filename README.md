@@ -15,7 +15,7 @@ This entire project is done on Amazon sagemaker and uses some heavy GPU instance
 
 1. Clone the repository.
 	```
-		git clone https://github.com/eswar3/sentiment-analysis-sagemaker-deployment.git
+		git clone https://github.com/nihithreddy/Deploying-Sentiment-Analysis-Model-Using-SageMaker/blob/master/README.md
 	```
 2. Open the `SageMaker Project.ipynb` file.
 	```
