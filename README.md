@@ -33,8 +33,8 @@ This entire project is done on Amazon sagemaker and uses some heavy GPU instance
 - Step 5: Testing the Model
 - Step 6: Deploying the model for testing
 - Step 7: Use the model for testing
-- Step 6  Deploy the model for the web app
-- Step 7  Use the model for the web app
+- Step 8:  Deploy the model for the web app
+- Step 9:  Use the model for the web app
 
 ### Libraries
 
